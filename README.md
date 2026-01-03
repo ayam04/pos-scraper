@@ -1,4 +1,4 @@
-# ShopVision Engineering Challenge
+# Pos-Scraper
 
 Two self-contained Python scrapers for extracting structured data from e-commerce sites.
 
