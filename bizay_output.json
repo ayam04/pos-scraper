@@ -1,0 +1,1234 @@
+{
+  "source_url": "https://us.bizay.com/en-us/business-cards-2?id=443495438&spf0=1411&spf1=1390&spf2=1391&spf3=1419&productGroupId=1386&indexManagementId=3",
+  "scraped_at": "2026-01-03T09:48:19.586745+00:00",
+  "product": {
+    "id": "443495438",
+    "product_group_id": "1386",
+    "title": "Business Cards",
+    "subtitle": null,
+    "description": null,
+    "currency": "USD",
+    "image_urls": [
+      "https://cdnspecsna.bizay.com/cdn-cgi/image/format=webp,quality=80/12-13/imgprod_g13_standardbusinesscards-2.png?v=638452603018026816",
+      "https://cdnspecsna.bizay.com/cdn-cgi/image/format=webp,quality=80/12-13/uprinting_pfgf_imgComb_Business%20Cards_shape_BusinessCards.png?v=638452598220793836",
+      "https://cdnspecsna.bizay.com/cdn-cgi/image/format=webp,quality=80/updates/uprinting_pfgf_imgComb_Business-Cards_size_in_BusinessCards.png?v=638561979059092155",
+      "https://cdnspecsna.bizay.com/cdn-cgi/image/format=webp,quality=80/12-13/uprinting_pfgf_imgComb_Business%20Cards_substract_BusinessCards_1.png?v=638452598475327537",
+      "https://cdnspecsna.bizay.com/12-13/imgprod_g13_standardbusinesscards-2.png?version=92455d5d10bc364f62d33bccfaddc0c1"
+    ],
+    "base_uom": "unit"
+  },
+  "options": [
+    {
+      "name": "Shape",
+      "key": "shape",
+      "values": [
+        {
+          "value": "Rectangle",
+          "id": "1390"
+        },
+        {
+          "value": "Rectangle | Rounded Corners",
+          "id": "1399"
+        }
+      ]
+    },
+    {
+      "name": "Size",
+      "key": "size",
+      "values": [
+        {
+          "value": "2 x 3.5 in",
+          "id": "1391"
+        },
+        {
+          "value": "2 x 2 in",
+          "id": "1406"
+        }
+      ]
+    },
+    {
+      "name": "Paper stock",
+      "key": "paper_stock",
+      "values": [
+        {
+          "value": "14pt Cardstock Gloss",
+          "id": "1419"
+        },
+        {
+          "value": "14pt Cardstock Matte",
+          "id": "1420"
+        },
+        {
+          "value": "14pt Cardstock High Gloss (UV)",
+          "id": "1421"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle",
+          "id": "1390"
+        },
+        "size": {
+          "value": "2 x 3.5 in",
+          "id": "1391"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock Gloss",
+          "id": "1419"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle",
+          "id": "1390"
+        },
+        "size": {
+          "value": "2 x 3.5 in",
+          "id": "1391"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock Matte",
+          "id": "1420"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle",
+          "id": "1390"
+        },
+        "size": {
+          "value": "2 x 3.5 in",
+          "id": "1391"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock High Gloss (UV)",
+          "id": "1421"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle",
+          "id": "1390"
+        },
+        "size": {
+          "value": "2 x 2 in",
+          "id": "1406"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock Gloss",
+          "id": "1419"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle",
+          "id": "1390"
+        },
+        "size": {
+          "value": "2 x 2 in",
+          "id": "1406"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock Matte",
+          "id": "1420"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle",
+          "id": "1390"
+        },
+        "size": {
+          "value": "2 x 2 in",
+          "id": "1406"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock High Gloss (UV)",
+          "id": "1421"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle | Rounded Corners",
+          "id": "1399"
+        },
+        "size": {
+          "value": "2 x 3.5 in",
+          "id": "1391"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock Gloss",
+          "id": "1419"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle | Rounded Corners",
+          "id": "1399"
+        },
+        "size": {
+          "value": "2 x 3.5 in",
+          "id": "1391"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock Matte",
+          "id": "1420"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle | Rounded Corners",
+          "id": "1399"
+        },
+        "size": {
+          "value": "2 x 3.5 in",
+          "id": "1391"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock High Gloss (UV)",
+          "id": "1421"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle | Rounded Corners",
+          "id": "1399"
+        },
+        "size": {
+          "value": "2 x 2 in",
+          "id": "1406"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock Gloss",
+          "id": "1419"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle | Rounded Corners",
+          "id": "1399"
+        },
+        "size": {
+          "value": "2 x 2 in",
+          "id": "1406"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock Matte",
+          "id": "1420"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "sku": null,
+      "available": true,
+      "selection": {
+        "shape": {
+          "value": "Rectangle | Rounded Corners",
+          "id": "1399"
+        },
+        "size": {
+          "value": "2 x 2 in",
+          "id": "1406"
+        },
+        "paper_stock": {
+          "value": "14pt Cardstock High Gloss (UV)",
+          "id": "1421"
+        }
+      },
+      "pricing": [
+        {
+          "quantity": 100,
+          "unit_price": {
+            "amount": 0.0012,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.12,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 250,
+          "unit_price": {
+            "amount": 0.0002,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.06,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 500,
+          "unit_price": {
+            "amount": 0.0001,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.04,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 1000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.03,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 2000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 4000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        },
+        {
+          "quantity": 8000,
+          "unit_price": {
+            "amount": 0.0,
+            "currency": "USD"
+          },
+          "total_price": {
+            "amount": 0.02,
+            "currency": "USD"
+          }
+        }
+      ]
+    }
+  ]
+}
